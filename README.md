@@ -26,3 +26,6 @@ One of the key challenges in speech recognition is handling the variability in h
 The final system can be deployed as a desktop application, web app, or mobile app. Users can interact with the application by recording their voice or uploading an audio file. The system then processes the input and displays the transcribed text. This transcription can be edited, saved, or exported as needed.
 
 In conclusion, the Speech Recognition System project demonstrates how artificial intelligence can bridge the gap between human communication and machine understanding. By leveraging modern deep learning techniques and robust audio processing pipelines, the system offers an efficient and accurate way to convert spoken words into written text. Such technology holds vast potential in areas like education, accessibility, customer service, and virtual assistance. The project not only showcases the power of speech-enabled interfaces but also lays the groundwork for more advanced applications like real-time translation and voice-controlled automation.
+
+OUTPUT :
+![Image](https://github.com/user-attachments/assets/ab5a949f-8742-4249-b9a1-5efaf28b40df)
